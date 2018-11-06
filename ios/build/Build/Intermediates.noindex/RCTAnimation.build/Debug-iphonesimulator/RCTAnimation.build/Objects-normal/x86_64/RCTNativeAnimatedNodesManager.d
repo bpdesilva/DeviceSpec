@@ -1,45 +1,45 @@
 dependencies: \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTEventAnimation.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTDecayAnimation.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTInterpolationAnimatedNode.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTModuloAnimatedNode.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.h
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAdditionAnimatedNode.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDiffClampAnimatedNode.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTDivisionAnimatedNode.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTEventAnimation.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTDecayAnimation.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTInterpolationAnimatedNode.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTModuloAnimatedNode.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTPropsAnimatedNode.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTSpringAnimation.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTStyleAnimatedNode.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTSubtractionAnimatedNode.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTrackingAnimatedNode.h

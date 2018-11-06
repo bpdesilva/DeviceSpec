@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTVersion.m \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTVersion.h
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTVersion.m \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTVersion.h

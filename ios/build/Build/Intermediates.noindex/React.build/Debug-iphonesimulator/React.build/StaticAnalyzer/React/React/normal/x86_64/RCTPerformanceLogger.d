@@ -1,15 +1,15 @@
 dependencies: \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTPerformanceLogger.m \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTRootView.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Profiler/RCTProfile.h
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTPerformanceLogger.m \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Profiler/RCTProfile.h

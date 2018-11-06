@@ -1,42 +1,42 @@
 dependencies: \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/Surface/RCTSurface.mm \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/Surface/RCTSurface.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/Surface/RCTSurfaceView+Internal.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/Surface/RCTSurfaceView.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Views/RCTShadowView.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Views/RCTComponent.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Views/RCTLayout.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTRootView.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/Surface/RCTSurfaceDelegate.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowViewDelegate.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/Surface/RCTSurfaceRootView.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Views/RCTView.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Views/RCTBorderStyle.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Views/RCTPointerEvents.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTTouchHandler.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Modules/RCTUIManager.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Views/RCTViewManager.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTConvert.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Views/RCTAnimationType.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Views/UIView+React.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Modules/RCTUIManagerObserverCoordinator.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Modules/RCTUIManagerUtils.h
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/Surface/RCTSurface.mm \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/Surface/RCTSurface.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/Surface/RCTSurfaceView+Internal.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/Surface/RCTSurfaceView.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/thinura/My\ Documents/whoamI/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/Surface/RCTSurfaceDelegate.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowViewDelegate.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/Surface/RCTSurfaceRootView.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Views/RCTView.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTTouchHandler.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Modules/RCTUIManager.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Modules/RCTUIManagerObserverCoordinator.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Modules/RCTUIManagerUtils.h

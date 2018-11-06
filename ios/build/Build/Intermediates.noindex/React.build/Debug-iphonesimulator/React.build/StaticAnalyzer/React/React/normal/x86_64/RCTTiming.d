@@ -1,14 +1,14 @@
 dependencies: \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Modules/RCTTiming.m \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Modules/RCTTiming.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/Base/RCTUtils.h
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Modules/RCTTiming.m \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Modules/RCTTiming.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/Base/RCTUtils.h
