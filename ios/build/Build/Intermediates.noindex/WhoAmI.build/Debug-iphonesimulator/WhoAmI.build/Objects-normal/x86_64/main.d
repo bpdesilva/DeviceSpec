@@ -1,2 +1,2 @@
-dependencies: /Users/buwanekadesilva/Documents/WhoAmI/ios/WhoAmI/main.m \
-  /Users/buwanekadesilva/Documents/WhoAmI/ios/WhoAmI/AppDelegate.h
+dependencies: /Users/thinura/My\ Documents/whoamI/ios/WhoAmI/main.m \
+  /Users/thinura/My\ Documents/whoamI/ios/WhoAmI/AppDelegate.h

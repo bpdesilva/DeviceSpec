@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/UIUtils/RCTUIUtils.m \
-  /Users/buwanekadesilva/Documents/WhoAmI/node_modules/react-native/React/UIUtils/RCTUIUtils.h
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/UIUtils/RCTUIUtils.m \
+  /Users/thinura/My\ Documents/whoamI/node_modules/react-native/React/UIUtils/RCTUIUtils.h
